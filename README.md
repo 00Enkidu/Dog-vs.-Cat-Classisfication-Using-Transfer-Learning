@@ -169,3 +169,5 @@ plt.show()
 - [tf.keras Documentation](https://www.tensorflow.org/api_docs/python/tf/keras)
 
 ---
+> **All model code, logs, and result plots are based on the original notebook and project files.  
+> For any questions or suggestions, please open an issue.**
