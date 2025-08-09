@@ -129,25 +129,8 @@ Test accuracy: 0.9825000166893005
 
 **Result Visualization**:
 
-```python
-plt.figure(figsize=(12, 4))
-plt.subplot(1, 2, 1)
-plt.plot(history.history['acc'], label='Training Accuracy')
-plt.title('Training Accuracy')
-plt.xlabel('Epoch')
-plt.ylabel('Accuracy')
-plt.legend()
+<img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/db97f22a-27c0-4711-8ae6-7560c06615c0" />
 
-plt.subplot(1, 2, 2)
-plt.plot(history.history['loss'], label='Training Loss')
-plt.title('Training Loss')
-plt.xlabel('Epoch')
-plt.ylabel('Loss')
-plt.legend()
-
-plt.tight_layout()
-plt.show()
-```
 
 ---
 
